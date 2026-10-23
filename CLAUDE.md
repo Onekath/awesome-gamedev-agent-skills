@@ -3,6 +3,8 @@
 Remix-Fork von gamedev-skills/awesome-gamedev-agent-skills.
 Regeln für Skills: CONTRIBUTING.md und docs/SKILL-FORMAT.md. Vor jedem Commit: `python scripts/validate-skills.py`.
 
+Bevor du einen Skill, den Router, diese CLAUDE.md oder ein anderes Dokument für Agenten anlegst oder änderst, lade zuerst den Skill `mattpocock-skills:writing-for-agents` und arbeite erst danach an der Aufgabe. Das gilt auch für jedes Ticket unter `.scratch/`.
+
 ## Agent skills
 
 ### Issue tracker
